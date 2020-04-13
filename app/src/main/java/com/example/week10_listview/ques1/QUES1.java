@@ -1,12 +1,13 @@
-package com.example.week10_listview;
+package com.example.week10_listview.ques1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.ListView;
 
+import com.example.week10_listview.R;
+
 import java.util.ArrayList;
-import java.util.List;
 
 public class QUES1 extends AppCompatActivity {
 
